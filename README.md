@@ -6,6 +6,7 @@
 
     - Venue: 209M, Shahe Campus
     - Time: Every Friday 19:20 -- 21:00 pm
+    - taught by feng-li
 
 - Information for 2019 spring semester
 
